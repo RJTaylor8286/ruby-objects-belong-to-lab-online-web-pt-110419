@@ -7,4 +7,4 @@ class Song
   end
 end
 
-eminem = Artist.new("Eminem")
+real_slim_shady = Song.new("Real Slim Shady")
