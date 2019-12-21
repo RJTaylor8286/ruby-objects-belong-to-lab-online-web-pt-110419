@@ -8,3 +8,5 @@ class Song
 end
 
 real_slim_shady = Song.new("Real Slim Shady")
+
+song.artist.name 
